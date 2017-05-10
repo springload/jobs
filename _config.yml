@@ -22,6 +22,7 @@ baseurl: "/jobs" # the subpath of your site, e.g. /blog
 url: "https://springload.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: springloadnz
 github_username:  springload
+show_downloads: false
 google_analytics: UA-79835767-9
 
 safe: true
