@@ -37,6 +37,7 @@ brand_color: '#7DC265'
 theme: jekyll-theme-minimal
 gems:
   - jekyll-feed
+  - jemoji
 exclude:
   - Gemfile
   - Gemfile.lock
