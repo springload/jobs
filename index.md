@@ -1,6 +1,6 @@
 # About us
 
-> :construction: **Heads up!** Head over to the [official Springload careers page](https://www.springload.co.nz/jobs/) to learn more about us.
+> :construction: Heads up! Head to the [official Springload careers page](https://www.springload.co.nz/jobs/) to learn more about us.
 
 What’s it like here?
 
