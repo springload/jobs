@@ -60,3 +60,7 @@ Every year, we provide a generous learning allowance to spend on conference tick
 Springload promotes a workplace that celebrates diversity, creativity and talent. We made a formal commitment to ensuring fairness in our workplace when we joined the Equal Employment Opportunities Trust.
 
 We are also an Accredited Employer with New Zealand Immigration. If you don't have New Zealand residency we can help you with your work visa.
+
+---
+
+[Apply for this job :rocket:](mailto:thibaud+fedjob@springload.co.nz?cc=apply@springload.co.nz&subject=Junior%20FED%20role)
