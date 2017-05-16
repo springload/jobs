@@ -10,6 +10,8 @@ What’s it like here?
 
 Springload promotes a workplace that celebrates diversity, creativity and talent. We made a formal commitment to ensuring fairness in our workplace when we joined the Equal Employment Opportunities Trust.
 
-# Current openings
+---
+
+# Current openings :seedling:
 
 - [Junior front-end developer](junior-front-end-developer)
