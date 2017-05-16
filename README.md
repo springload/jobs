@@ -1,5 +1,3 @@
-[![](https://springload.github.io/jobs/springload-logo.svg)](https://www.springload.co.nz/)
-
 # About us
 
 > **Heads up!** Head over to the [official Springload careers page](https://www.springload.co.nz/jobs/) to learn more about us.
