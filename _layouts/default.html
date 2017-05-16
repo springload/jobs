@@ -11,6 +11,10 @@
         font-size: 16px;
         color: #5e5e5e;
       }
+      
+      .notice a {
+        color: inherit;
+      }
     </style>
   </head>
   <body>
@@ -18,7 +22,6 @@
       <header>
         <a href="/{{ site.github.repository_name }}"><h1>{{ site.title | default: site.github.repository_name }}</h1></a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <p><a href="{{ site.github.repository_url }}/edit/gh-pages/{{ page.path}}">Edit this page</a></p>
       </header>
       <section>
 
@@ -29,6 +32,7 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
+        <p class="notice"><small><a href="https://creativecommons.org/publicdomain/zero/1.0/">Public domain</a> - <a href="{{ site.github.repository_url }}/edit/gh-pages/{{ page.path}}">Edit this page</a></small></p>
         <p><a href="https://www.springload.co.nz/"><img alt="Springload" src="springload-logo.svg"</a></small></p>
       </footer>
     </div>
