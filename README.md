@@ -1,15 +1,9 @@
-# About us
+# Springload Jobs experimental mini-site
 
-> **Heads up!** Head over to the [official Springload careers page](https://www.springload.co.nz/jobs/) to learn more about us.
+> Put job offers online, for cheap, without the hassle.
 
-What’s it like here?
+## How to use this
 
-- We've got great clients, and challenging projects from the Arts Festival to a bank.
-- We're super friends, the atmosphere in the office rocks, and we love delicious beer from our friends at Regional.
-- We like you to enjoy your work and we like it when you go home on time.
+Add/edit the Markdown files directly on GitHub and you're good to go! Changes are deployed in less than a minute. If you want to work on a draft, make a pull request.
 
-Springload promotes a workplace that celebrates diversity, creativity and talent. We made a formal commitment to ensuring fairness in our workplace when we joined the Equal Employment Opportunities Trust.
-
-# Current openings
-
-- [Junior front-end developer](junior-front-end-developer)
+This site is powered by [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
