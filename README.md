@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+[![](springload-logo.svg)](https://www.springload.co.nz/)
 
-You can use the [editor on GitHub](https://github.com/springload/jobs/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+# About Springload
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> **Heads up!** Head over to the [official Springload careers page](https://www.springload.co.nz/jobs/) to learn more about us.
 
-### Markdown
+What’s it like here?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- We've got great clients, and challenging projects from the Arts Festival to a bank.
+- We're super friends, the atmosphere in the office rocks, and we love delicious beer from our friends at Regional.
+- We like you to enjoy your work and we like it when you go home on time.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/springload/jobs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Springload promotes a workplace that celebrates diversity, creativity and talent. We made a formal commitment to ensuring fairness in our workplace when we joined the Equal Employment Opportunities Trust.
