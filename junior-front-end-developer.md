@@ -30,24 +30,22 @@ As part of this role, you will:
 You will have:
 
 - Ability to communicate front-end development matters clearly to other team members, clients, and partners.
-- Understanding of browser, platform, device, performance, and accessibility constraints.
-- Advanced HTML and CSS knowledge – standards compliance, pattern libraries.
-- Experience with CSS preprocessing (SCSS, PostCSS) and HTML templating.
-- Experience with large-scale CSS architecture (BEM, ITCSS).
-- Experience with programming in JavaScript (vanilla).
+- Understanding of browser, platform, device constraints.
+- Basic HTML and CSS knowledge.
+- Experience with CSS preprocessing and HTML templating.
+- Experience with programming in JavaScript.
 - Basic understanding of object-oriented and functional programming concepts.
-- Experience with browser development tools (such as Chrome or FireFox DevTools).
+- Experience with browser development tools (such as Chrome or Firefox DevTools).
 
-Bonus point for:
+Bonus points for:
 
-- Experience with client-side frameworks (such as React, Angular, or Backbone).
+- Experience with client-side frameworks in CSS and JS.
 - Experience with content management systems or e-commerce platforms.
-- Familiarity with version control via Git, continuous integration, issue trackers, wikis, and pull request workflows.
-- Familiarity with front-end build tools and task runners (npm, Grunt, Gulp, Webpack, Browserify).
+- Familiarity with version control via Git, issue trackers, wikis, and pull request workflows.
+- Familiarity with front-end build tools and task runners.
 - Familiarity with software testing – unit tests, integration tests.
-- Working knowledge of the Unix command line and a shell of your choice.
-- Working knowledge of graphic software (Illustrator, Sketch, Photoshop), comfortable working with vectors and SVG.
-- Eye for detail, understanding of fundamentals of typography. Pixels out of place will annoy you.
+- Working knowledge of the command line.
+- Working knowledge of design tools.
 
 ## Benefits
 
