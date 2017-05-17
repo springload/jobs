@@ -61,4 +61,4 @@ We are also an Accredited Employer with New Zealand Immigration. If you don't ha
 
 ---
 
-[Apply for this job :rocket:](mailto:thibaud+fedjob@springload.co.nz?cc=apply@springload.co.nz&subject=Junior%20FED%20role)
+Apply for this job: [`thibaud+fedjob@springload.co.nz` :rocket:](mailto:thibaud+fedjob@springload.co.nz?cc=apply@springload.co.nz&subject=Junior%20FED%20role)
