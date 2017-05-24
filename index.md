@@ -16,4 +16,4 @@ Springload promotes a workplace that celebrates diversity, creativity and talent
 
 # Current openings :seedling:
 
-- [Junior front-end developer](junior-front-end-developer)
+- [Senior front-end developer](https://springloadjobs.workable.com/j/3C5A04DE3E)
