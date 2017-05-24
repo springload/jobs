@@ -1,8 +1,8 @@
 ---
-title: Job offer: Senior Front-end Developer
+title: ARCHIVE - Job offer: Senior Front-end Developer
 ---
 
-# Senior Front-end Developer
+# ARCHIVE - Senior Front-end Developer
 
 > [Wellington, North Island, New Zealand](https://www.google.co.nz/maps/place/Springload/@-41.292409,174.7778358,19z/data=!3m1!4b1!4m5!3m4!1s0x6d38afd74d81b49b:0xaab8c9f945251dd1!8m2!3d-41.292409!4d174.778383)
 
