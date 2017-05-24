@@ -16,7 +16,7 @@ We’re looking for a professional, dedicated and pragmatic front-end developer 
 - Responsible and friendly.
 - Naturally interested in technology.
 
-While we value formal qualifications they are not essential. We value proven experience, demonstrable clear, analytical thinking and great communication skills.
+While we value formal qualifications they are far from essential. We value proven experience, demonstrable clear, analytical thinking and great communication skills.
 
 As part of this role, you will:
 
