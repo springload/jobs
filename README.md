@@ -1,4 +1,4 @@
-# Springload Jobs experimental mini-site
+# [Springload Jobs](https://springload.github.io/jobs/) experimental mini-site
 
 > Put job offers online, for cheap, without the hassle.
 
